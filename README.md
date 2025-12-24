@@ -13,4 +13,4 @@ PEP 668への対応とsetup.pyを使わない手法の検討に用いた
 ## 作成したノード
 
 ROS 2 docsのチュートリアルで紹介されているpublisherノードとsubscriberノードを利用  
-（https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html）
+https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html
