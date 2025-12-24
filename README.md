@@ -3,6 +3,9 @@
 uvを使ってROS 2パッケージを作成するテスト用パッケージ  
 PEP 668への対応とsetup.pyを使わない手法の検討に用いた
 
+詳しくは以下の記事を参照  
+https://zenn.dev/kamorei/articles/ros2-with-uv
+
 ## 検証環境
 
 - Ubuntu 24.04
